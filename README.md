@@ -1,4 +1,5 @@
 ## null [![GoDoc](https://godoc.org/github.com/guregu/null?status.svg)](https://godoc.org/github.com/guregu/null) [![CircleCI](https://circleci.com/gh/guregu/null.svg?style=svg)](https://circleci.com/gh/guregu/null)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fkkemot%2Fnull.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fkkemot%2Fnull?ref=badge_shield)
 `import "gopkg.in/guregu/null.v3"`
 
 null is a library with reasonable options for dealing with nullable SQL and JSON values
@@ -73,3 +74,6 @@ Will marshal to the zero time if null. Uses `time.Time`'s marshaler. Can unmarsh
 
 ### License
 BSD
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fkkemot%2Fnull.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fkkemot%2Fnull?ref=badge_large)
